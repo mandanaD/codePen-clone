@@ -1,0 +1,28 @@
+.editor {
+    width: 97%;
+    border-left: solid  #2a2a2a 1px;
+    border-bottom: solid  #2a2a2a 1px;
+    margin-inline: auto;
+}
+.name{
+    padding: 5px;
+    background: #000000;
+    color: #8d8d8d;
+    width: 5rem;
+    border-top: solid #2a2a2a 3px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
+.CodeMirror {
+    height: 13rem;
+}
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    background: #131417;
+}
+::-webkit-scrollbar-thumb {
+    background: #332f2f;
+}
